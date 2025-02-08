@@ -30,9 +30,9 @@ Automated **data extraction, validation, and storage** from a CRM API, enabling 
 
 ## 📚 Certifications & Courses
 
--   **AWS Fundamentals Specialization** – Cloud computing, AWS core services, and serverless applications.
+-   **[AWS Fundamentals Specialization](https://coursera.org/share/defdf30529af4e9b7499863db1873ee7)** – Cloud computing, AWS core services, and serverless applications.
     
--   **Cisco Networking Academy** – Cybersecurity, Networking Basics, Endpoint Security.
+-   **Cisco Networking Academy** – [Cybersecurity](https://www.credly.com/badges/c74236b2-ff54-4ada-a403-a72c982b920e), [Networking Basics](https://www.credly.com/badges/633b006c-d312-44f3-a96b-b74dda19975b), [Endpoint Security](https://www.credly.com/badges/5f679577-9245-4d9f-94f2-3e109d7553b3).
     
 
 ## 📫 Get in Touch
