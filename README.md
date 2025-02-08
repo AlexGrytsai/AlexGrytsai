@@ -11,11 +11,11 @@ Before transitioning into IT, I worked as an **engineer and team lead** in the c
 
 -   **Backend:** Python, Django, DRF, FastAPI
     
--   **Databases:** PostgreSQL, Azure SQL, Redis
+-   **Databases:** PostgreSQL, Azure SQL, MySQL, Redis
     
 -   **Cloud & DevOps:** Azure, Google Cloud, AWS, Docker, Docker Compose, CI/CD (GitHub Actions)
     
--   **Other:** Celery, AsyncIO, Pydantic, Redis Cloud, REST API, OOP, SOLID, Sentry.io
+-   **Other:** Celery, AsyncIO, SQLAlchemy, Pydantic, Redis Cloud, REST API, OOP, SOLID
     
 
 ## 💼 Projects
@@ -32,7 +32,7 @@ Automated **data extraction, validation, and storage** from a CRM API, enabling 
 
 -   **AWS Fundamentals Specialization** – Cloud computing, AWS core services, and serverless applications.
     
--   **Cisco Networking Academy** – Cybersecurity, networking basics, endpoint security.
+-   **Cisco Networking Academy** – Cybersecurity, Networking Basics, Endpoint Security.
     
 
 ## 📫 Get in Touch
@@ -41,7 +41,7 @@ Automated **data extraction, validation, and storage** from a CRM API, enabling 
     
 -   **LinkedIn:**  [linkedin.com/in/agrytsai](https://linkedin.com/in/agrytsai)
     
--   **Email:**  your.email@example.com
+-   **Email:**  grytsai.alex@gmail.com
     
 
 Let's build something amazing together! 🚀
